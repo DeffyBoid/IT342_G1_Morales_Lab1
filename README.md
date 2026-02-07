@@ -11,7 +11,7 @@ IT342_G4_Morales_Lab1
 - Where the Backend files are stored and implemented
 ### /mobile
 - Where the Mobile files and functionalities are stored and implemented
-###/docs
+### /docs
 - Where the Documentation and Miscellaneous files are stored
 ### README.md 
 - Where instructions and project description are founded
