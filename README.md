@@ -5,17 +5,17 @@ This project aims to work on the functionality of Registering and Authenticating
 
 ## Contents
 IT342_G4_Morales_Lab1 
-# /web
+### /web
 - Where the Frontend files are stored and implemented
-# /backend 
+### /backend 
 - Where the Backend files are stored and implemented
-# /mobile
+### /mobile
 - Where the Mobile files and functionalities are stored and implemented
-#/docs
+###/docs
 - Where the Documentation and Miscellaneous files are stored
-# README.md 
+### README.md 
 - Where instructions and project description are founded
-# TASK_CHECKLIST.md
+### TASK_CHECKLIST.md
 - Where project progress is checked and determined
 
 ## Requirements
