@@ -1,0 +1,34 @@
+# Morales - User Registration and Authentication
+
+## Project Description
+This project aims to work on the functionality of Registering and Authenticating
+
+## Contents
+IT342_G4_Morales_Lab1 
+├─ /web
+    - Where the Frontend files are stored and implemented
+├─ /backend 
+    - Where the Backend files are stored and implemented
+├─ /mobile
+    - Where the Mobile files and functionalities are stored and implemented
+├─ /docs
+    - Where the Documentation and Miscellaneous files are stored
+├─ README.md 
+    - Where instructions and project description are founded
+└─ TASK_CHECKLIST.md
+    - Where project progress is checked and determined
+
+## Requirements
+# List any dependencies or requirements
+
+## Installation
+# Instructions for setting up the project locally.
+
+## Usage
+# How to run or use the project.
+
+## Contributing Members
+MORALES, Dilton Rowan S.
+
+## Notes
+# Any additional notes or observations
