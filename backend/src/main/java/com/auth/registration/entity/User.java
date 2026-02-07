@@ -24,7 +24,7 @@ public class User {
 
     @Column(nullable = false)
     private String created;
-    
+
     public User() {}
 
     public User(String username, String email, String password) {
@@ -33,7 +33,7 @@ public class User {
         this.password = password;
     }
 
-    public Long getId() { return id; }
+    public Long getId() { return user_id; }
     public String getUsername() { return username; }
     public void setUsername(String username) { this.username = username; }
     public String getEmail() { return email; }

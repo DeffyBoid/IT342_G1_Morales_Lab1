@@ -11,13 +11,13 @@
 - mobile basic implementation
 - mobile connected with frontend and backend
 - mobile resized frontend to be dynamic with phone proportions
-### In Progress
+### IN-PROGRESS
 - backend basic implementation
 - frontend basic implementation
-## Done
+### DONE
 
 
 ## Milestones
-- [ ] backend is running smoothly and implemented all functionalities
-- [ ] frontend is running smoothly and implemented all functionalities
-- [ ] mobile is running smoothly and implemented all functionalities
+- [ ] backend is running smoothly and implemented all features and functionalities
+- [ ] frontend is running smoothly and implemented all features and functionalities
+- [ ] mobile is running smoothly and implemented all features and functionalities
