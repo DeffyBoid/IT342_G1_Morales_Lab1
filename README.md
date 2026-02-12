@@ -23,7 +23,10 @@ IT342_G4_Morales_Lab1
 ## Installation
 
 ## Usage
-# How to run or use the project.
+### How to run or use the project.
+React:
+1. open terminal and cd to .../IT342_G4_Morales_Lab1/web
+2. type "npm start"
 
 ## Contributing Members
 MORALES, Dilton Rowan S.
